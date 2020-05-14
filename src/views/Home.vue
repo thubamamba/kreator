@@ -5,10 +5,10 @@
     <section class="section is-medium">
       <div class="columns is-vcentered">
         <div class="column is-half is-offset-one-quarter">
-          <h1 class="title is-size-1 has-text-white">
-            Wassup?<br>
+          <h1 class="title is-size-1 has-text-white" style="font-family: 'Concert One', cursive;">
+            Hi There.<br>
             I am <br>
-            Jason.
+            Jason Statham.
           </h1>
         </div>
         <div class="column has-text-left is-3 is-hidden-mobile is-hidden-tablet-only has-text-light" style="margin-left: -15%">
@@ -20,63 +20,65 @@
       </div>
     </section>
     <!--- Clients --->
+    <!-- Logos - Desktop -->
     <section class="section is-hidden-mobile is-hidden-tablet-only">
       <div class="container">
         <hr class="has-background-grey-dark">
         <div class="columns has-text-centered">
             <div class="column">
-              <img src="../assets/images/brands/Apple-Logo.png" alt="Apple - previous client" class="brandLogo">
+              <img src="../assets/images/brands/Apple-Logo.png" alt="Apple - previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous logo" class="brandLogo">
+              <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous logo" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/Discovery-Logo.png" alt="Discovery - previous client" class="brandLogo">
+              <img src="../assets/images/brands/Discovery-Logo.png" alt="Discovery - previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/OfferZen-Logo.png" alt="OfferZen- previous client" class="brandLogo">
+              <img src="../assets/images/brands/OfferZen-Logo.png" alt="OfferZen- previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/Nike-Logo.png" alt="Nike - previous client" class="brandLogo">
+              <img src="../assets/images/brands/Nike-Logo.png" alt="Nike - previous client" class="brandLogo hvr-pulse-grow">
             </div>
         </div>
         <div class="columns has-text-centered">
             <div class="column">
-              <img src="../assets/images/brands/Microsoft-logo.png" alt="Microsoft - previous client" class="brandLogo">
+              <img src="../assets/images/brands/Microsoft-logo.png" alt="Microsoft - previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/Outsurance-logo.png" alt="Outsurance - previous client" class="brandLogo">
+              <img src="../assets/images/brands/Outsurance-logo.png" alt="Outsurance - previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/Ogilvy-logo.png" alt="Ogilvy - previous client" class="brandLogo">
+              <img src="../assets/images/brands/Ogilvy-logo.png" alt="Ogilvy - previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/dvt-logo.png" alt="DVT - previous client" class="brandLogo">
+              <img src="../assets/images/brands/dvt-logo.png" alt="DVT - previous client" class="brandLogo hvr-pulse-grow">
             </div>
             <div class="column">
-              <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous client" class="brandLogo">
+              <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous client" class="brandLogo hvr-pulse-grow">
             </div>
         </div>
         <hr class="has-background-grey-dark">
       </div>
     </section>
+    <!-- Logos - Mobile -->
     <section class="section is-hidden-desktop">
       <div class="container">
         <hr class="has-background-grey-dark">
         <div class="columns has-text-centered">
           <div class="column is-half">
-            <img src="../assets/images/brands/Microsoft-logo.png" alt="Microsoft - previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous logo" class="brandLogo-mobile">
-            <img src="../assets/images/brands/Ogilvy-logo.png" alt="Ogilvy - previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/OfferZen-Logo.png" alt="OfferZen- previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/Nike-Logo.png" alt="Nike - previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous client" class="brandLogo-mobile">
+            <img src="../assets/images/brands/Microsoft-logo.png" alt="Microsoft - previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous logo" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/Ogilvy-logo.png" alt="Ogilvy - previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/OfferZen-Logo.png" alt="OfferZen- previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/Nike-Logo.png" alt="Nike - previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/BCX-Logo.png" alt="BCX - previous client" class="brandLogo-mobile hvr-pulse-shrink">
           </div>
           <div class="column is-half">
-            <img src="../assets/images/brands/Apple-Logo.png" alt="Apple - previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/Outsurance-logo.png" alt="Outsurance - previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/dvt-logo.png" alt="DVT - previous client" class="brandLogo-mobile">
-            <img src="../assets/images/brands/Discovery-Logo.png" alt="Discovery - previous client" class="brandLogo-mobile">
+            <img src="../assets/images/brands/Apple-Logo.png" alt="Apple - previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/Outsurance-logo.png" alt="Outsurance - previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/dvt-logo.png" alt="DVT - previous client" class="brandLogo-mobile hvr-pulse-shrink">
+            <img src="../assets/images/brands/Discovery-Logo.png" alt="Discovery - previous client" class="brandLogo-mobile hvr-pulse-shrink">
 
           </div>
         </div>
@@ -141,7 +143,8 @@
           </div>
           <div class="column">
             <figure class="image is-1by1">
-              <img src="https://bulma.io/images/placeholders/128x128.png">
+              <!-- PS: Try keep your image height & width equal for better UI -->
+              <img src="../assets/images/placeholder_user.png">
             </figure>
             <div class="columns is-mobile" style="margin-top: 50px;">
               <div class="column is-three-fifths is-offset-one-fifth">
@@ -149,10 +152,10 @@
                   Awards
                 </p>
                 <ul class="is-size-5 has-text-weight-bold has-text-danger" style="padding: 15px; line-height: 2.0em;">
-                  <li class="awards">Creative Circle (2019)</li>
-                  <li class="awards">Durban Creative Awards (2019)</li>
-                  <li class="awards">MUSE Creative Awards (2018)</li>
-                  <li class="awards">IAB Bookmark Awards (2017)</li>
+                  <li class="awards hvr-pop">Creative Circle (2019)</li>
+                  <li class="awards hvr-pop">Durban Creative Awards (2019)</li>
+                  <li class="awards hvr-pop">MUSE Creative Awards (2018)</li>
+                  <li class="awards hvr-pop">IAB Bookmark Awards (2017)</li>
                 </ul>
               </div>
             </div>
@@ -190,8 +193,8 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger" href="#" target="_blank">
-                  Learn more
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
+                  Learn More
               </a>
             </article>
           </div>
@@ -217,7 +220,7 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger" href="#" target="_blank">
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
                 SEE PROJECT
               </a>
             </article>
@@ -258,7 +261,7 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger" href="#" target="_blank">
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
                 SEE PROJECT
               </a>
             </article>
@@ -285,7 +288,7 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger" href="#" target="_blank">
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
                   VISIT SITE
               </a>
             </article>
@@ -316,6 +319,14 @@
     components: {
       Navbar,
       MyFooter
+    },
+    metaInfo: {
+      title: 'Welcome',
+      titleTemplate: '%s | My Portfolio Site',
+      htmlAttrs: {
+        lang: 'en',
+        amp: true
+      }
     }
   }
 </script>

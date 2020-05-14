@@ -6,7 +6,9 @@ import Buefy from 'buefy'
 import 'buefy/dist/buefy.css'
 import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/fontawesome-free/js/all.js'
+import VueMeta from 'vue-meta'
 
+Vue.use(VueMeta)
 Vue.use(Buefy);
 Vue.config.productionTip = false
 

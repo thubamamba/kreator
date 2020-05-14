@@ -1,4 +1,4 @@
-// Navbar
+// Navbar Hamburger
 document.addEventListener('DOMContentLoaded', () => {
 
   // Get all "navbar-burger" elements
@@ -22,5 +22,4 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
   }
-
-});
+  });

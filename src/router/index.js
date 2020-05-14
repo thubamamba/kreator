@@ -32,7 +32,16 @@ const routes = [
 
 const router = new VueRouter({
   mode: "history",
-  routes
+  routes,
+  // Watches page reload for Mata info to load
+  watch: {
+    '$route':{
+      handler: (to, from) => {
+        document.title = to.meta.title || 'My Portfolio Site'
+      },
+       immediate: true
+    }
+  },
 })
 
 export default router

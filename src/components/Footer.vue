@@ -17,27 +17,27 @@
           </div>
           <!-- Social Media -->
           <div class="level-item has-text-centered">
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" class="hvr-pulse">
               <span class="icon is-inline-block">
                 <i class="fab fa-github icon is-medium"></i>
               </span>
             </a>
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" class="hvr-pulse">
               <span class="icon is-inline-block">
                 <i class="fab fa-linkedin icon is-medium"></i>
               </span>
             </a>
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" class="hvr-pulse">
               <span class="icon is-inline-block">
                 <i class="fab fa-twitter icon is-medium"></i>
               </span>
             </a>
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" class="hvr-pulse">
               <span class="icon is-inline-block">
                 <i class="fab fa-instagram icon is-medium"></i>
               </span>
             </a>
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" class="hvr-pulse">
               <span class="icon is-inline-block">
                 <i class="fab fa-facebook-square icon is-medium"></i>
               </span>
@@ -64,6 +64,7 @@
   </div>
 </template>
 
+<style src="@/assets/css/main.css"></style>
 <style lang="css" scoped>
   .MyFooter {
     background-color: #17181B;
