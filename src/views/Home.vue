@@ -84,7 +84,7 @@
       </div>
     </section>
     <!--- Main Body --->
-    <section class="section">
+    <section class="section" id="about">
       <div class="container">
         <div class="columns">
           <div class="column is-three-fifths">
@@ -161,7 +161,7 @@
       </div>
     </section>
     <!--- Projects --->
-    <section class="section pageSections">
+    <section class="section pageSections" id="work">
       <div class="container is-vcentered">
         <p class="is-size-3	has-text-weight-bold has-text-white has-text-centered" style="padding-bottom: 15px">
           Recent Work
@@ -300,20 +300,22 @@
         </div>
       </div>
     </section>
-    <Footer />
+    <section id="getintouch">
+      <MyFooter />
+    </section>
   </div>
 </template>
 
 <script>
 
   import Navbar from "../components/Navbar"
-  import Footer from '../components/Footer'
+  import MyFooter from '../components/Footer'
 
   export default {
     name: 'Home',
     components: {
       Navbar,
-      Footer
+      MyFooter
     }
   }
 </script>

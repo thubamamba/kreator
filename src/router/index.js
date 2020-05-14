@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import NotFound from '../components/404.vue';
 
 Vue.use(VueRouter)
 
@@ -8,19 +9,29 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
+    meta: {
+      title: 'Welcome | My Portfolio Site',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'This is content is meant to be a synopsis of what your site is about especially for when people search on search engines.'
+        },
+        {
+          property: 'og:description',
+          content: 'This is content is meant to be a synopsis of what your site is about especially for when people search on search engines'
+        }
+      ]
+    }
   },
   {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    path: '*',
+    component: NotFound
   }
 ]
 
 const router = new VueRouter({
+  mode: "history",
   routes
 })
 

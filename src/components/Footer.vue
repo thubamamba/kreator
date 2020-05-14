@@ -1,5 +1,5 @@
 <template>
-  <div id="footer">
+  <div id="MyFooter">
     <!-- Footer -->
     <footer class="section is-medium" id="contact">
       <div class="container">
@@ -65,13 +65,13 @@
 </template>
 
 <style lang="css" scoped>
-  .footer {
+  .MyFooter {
     background-color: #17181B;
   }
 </style>
 
 <script>
   export default {
-    name: 'footer'
+    name: 'MyFooter'
   }
 </script>
