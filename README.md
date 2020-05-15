@@ -4,7 +4,7 @@ A portfolio open source site built in [Vue JS](https://vuejs.org/) with [Bulma](
 View [demo site](https://kreator-vue.herokuapp.com/).
 
 ## Screenshot
-![Screenshot](kreator.png)
+|![LandingPage](https://github.com/thubamamba/kreator/screenshot/kreator.png)|
 
 ## Project setup
 ```
