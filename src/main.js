@@ -7,6 +7,12 @@ import 'buefy/dist/buefy.css'
 import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/fontawesome-free/js/all.js'
 import VueMeta from 'vue-meta'
+import VueGtag from "vue-gtag";
+
+Vue.use(VueGtag, {
+  config: { id: "GOOGLE_TRACKING" }
+});
+
 // import Hotjar from 'vue-hotjar'
 
 // Vue.use(Hotjar, {
