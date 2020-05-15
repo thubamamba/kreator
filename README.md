@@ -2,6 +2,10 @@
 A portfolio open source site built in [Vue JS](https://vuejs.org/) with [Bulma](https://bulma.io/). 
 
 View [demo site](https://kreator-vue.herokuapp.com/).
+
+## Screenshot
+![Screenshot](kreator.png)
+
 ## Project setup
 ```
 npm install
