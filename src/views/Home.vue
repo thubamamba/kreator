@@ -193,8 +193,8 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
-                  Learn More
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow has-text-weight-bold" href="#" target="_blank">
+                  LEARN MORE
               </a>
             </article>
           </div>
@@ -220,7 +220,7 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow has-text-weight-bold" href="#" target="_blank">
                 SEE PROJECT
               </a>
             </article>
@@ -261,7 +261,7 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow has-text-weight-bold" href="#" target="_blank">
                 SEE PROJECT
               </a>
             </article>
@@ -288,7 +288,7 @@
                 Sed tamen intellego quid velit.
               </p>
               <br/>
-              <a class="portfolioBtn has-background-danger hvr-grow-shadow is-medium button" href="#" target="_blank">
+              <a class="portfolioBtn has-background-danger hvr-grow-shadow has-text-weight-bold" href="#" target="_blank">
                   VISIT SITE
               </a>
             </article>
