@@ -7,13 +7,13 @@ import 'buefy/dist/buefy.css'
 import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/fontawesome-free/js/all.js'
 import VueMeta from 'vue-meta'
-import Hotjar from 'vue-hotjar'
+// import Hotjar from 'vue-hotjar'
 
-Vue.use(Hotjar, {
-  id: HOTJAR_ID,
-  isProduction: true,
-  snippetVersion: 6
-})
+// Vue.use(Hotjar, {
+//   id: HOTJAR_ID,
+//   isProduction: true,
+//   snippetVersion: 6
+// })
 
 Vue.use(VueMeta)
 Vue.use(Buefy);
